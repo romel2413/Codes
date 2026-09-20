@@ -11,7 +11,7 @@
                             <div class="detail-box">
                                 <h1>
                                     <span>
-                                        Thirsty?
+                                        lover?
                                     </span>
                                     <br>
                                     Have a Drink
